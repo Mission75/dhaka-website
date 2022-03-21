@@ -1,0 +1,51 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: large;
+    color: brown;
+    font-style: italic;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+    border-radius: 5%;
+}
+.top-banner{
+    background-image: url("exp-bg.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,red );
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 800;
+}
+
+.hanif{
+    color: black;
+    font-size: larger;
+
+}
+.food-travel{
+    margin: 0%;
+    padding: 30px 15px 20px 0px;
+}
